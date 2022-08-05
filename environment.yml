@@ -1,0 +1,45 @@
+name: rescrape
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - beautifulsoup4=4.11.1=pyha770c72_0
+  - brotlipy=0.7.0=py39h63b48b0_1004
+  - bzip2=1.0.8=h0d85af4_4
+  - ca-certificates=2022.6.15=h033912b_0
+  - certifi=2022.6.15=py39h6e9494a_0
+  - cffi=1.15.1=py39hae9ecf2_0
+  - charset-normalizer=2.1.0=pyhd8ed1ab_0
+  - cryptography=37.0.1=py39hf6deb26_0
+  - icu=70.1=h96cf925_0
+  - idna=3.3=pyhd8ed1ab_0
+  - libcxx=14.0.6=hce7ea42_0
+  - libffi=3.4.2=h0d85af4_5
+  - libiconv=1.16=haf1e3a3_0
+  - libxml2=2.9.14=h08a9926_3
+  - libxslt=1.1.35=heaa0ce8_0
+  - libzlib=1.2.12=hfe4f2af_2
+  - lxml=4.9.1=py39h701faf5_0
+  - ncurses=6.3=h96cf925_1
+  - openssl=3.0.5=hb81d4ab_1
+  - pip=22.2.2=pyhd8ed1ab_0
+  - pycparser=2.21=pyhd8ed1ab_0
+  - pyopenssl=22.0.0=pyhd8ed1ab_0
+  - pypdf2=2.9.0=pyhd8ed1ab_0
+  - pysocks=1.7.1=py39h6e9494a_5
+  - python=3.9.13=hf8d34f4_0_cpython
+  - python_abi=3.9=2_cp39
+  - readline=8.1.2=h3899abd_0
+  - requests=2.28.1=pyhd8ed1ab_0
+  - setuptools=63.3.0=py39h6e9494a_0
+  - soupsieve=2.3.2.post1=pyhd8ed1ab_0
+  - sqlite=3.39.2=hd9f0692_0
+  - tk=8.6.12=h5dbffcc_0
+  - typing-extensions=4.3.0=hd8ed1ab_0
+  - typing_extensions=4.3.0=pyha770c72_0
+  - tzdata=2022a=h191b570_0
+  - urllib3=1.26.11=pyhd8ed1ab_0
+  - wheel=0.37.1=pyhd8ed1ab_0
+  - xz=5.2.5=haf1e3a3_1
+  - zlib=1.2.12=hfe4f2af_2
+prefix: /opt/anaconda3/envs/rescrape
